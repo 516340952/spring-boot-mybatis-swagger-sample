@@ -1,0 +1,15 @@
+sample\mybatis\mapper\UserMapper.class
+sample\mybatis\swagger\SwaggerConfig.class
+sample\mybatis\web\UserController.class
+sample\mybatis\task\TaskJob.class
+sample\mybatis\swagger\DemoController.class
+sample\mybatis\conf\MyBatisConfiguration.class
+sample\mybatis\conf\DatabaseDriver.class
+sample\mybatis\domain\User.class
+sample\mybatis\bean\Demo.class
+sample\mybatis\swagger\TestController.class
+sample\mybatis\service\UserService.class
+sample\mybatis\service\UserServiceImpl.class
+sample\mybatis\Application.class
+sample\mybatis\jpa\repository\UserRepository.class
+sample\mybatis\conf\CustomDataSourceProperties.class
